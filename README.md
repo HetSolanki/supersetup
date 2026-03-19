@@ -19,7 +19,7 @@ supersetup helps you create new projects without the hassle of manual setup. Jus
 npx supersetup
 ```
 
-That's it! Follow the prompts to choose your stack, and supersetup will generate your project.
+That's it! Follow the prompts to choose your stack and supersetup will generate your project.
 
 ## License
 
